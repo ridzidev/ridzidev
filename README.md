@@ -58,4 +58,10 @@
 
 ---
 
-you found the founder of primaginary indonesia ([primaginary.id](https://primaginary.id))
+<p align="left">
+  <a href="https://primaginary.id" target="_blank">
+    <img src="https://raw.githubusercontent.com/ridzidev/ridzidev.github.io/refs/heads/gh-pages/assets/images/logo_primaginary_indonesia.png" height="28" alt="Primaginary Indonesia Logo" align="center" />
+  </a>
+  &nbsp; you found the founder of primaginary indonesia (<a href="https://primaginary.id">primaginary.id</a>)
+</p>
+
