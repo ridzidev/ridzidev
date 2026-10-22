@@ -1,5 +1,15 @@
 # ridzidev
 
+
+<p align="left">
+  <a href="https://primaginary.id" target="_blank">
+    <img src="https://raw.githubusercontent.com/ridzidev/ridzidev.github.io/refs/heads/gh-pages/assets/images/logo_primaginary_indonesia.png" height="28" alt="Primaginary Indonesia Logo" align="center" />
+  </a>
+  &nbsp; you found the founder of primaginary indonesia (<a href="https://primaginary.id">primaginary.id</a>)
+</p>
+
+---
+
 ### Languages & Core Engineering
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -49,19 +59,5 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Spoken Languages
-![Indonesian](https://img.shields.io/badge/Indonesian-Native-1b5e20?style=for-the-badge)
-![Acehnese](https://img.shields.io/badge/Acehnese-Native-1b5e20?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Professional-0d47a1?style=for-the-badge)
-![Russian](https://img.shields.io/badge/Russian-Basic-424242?style=for-the-badge)
-![German](https://img.shields.io/badge/German-Basic-424242?style=for-the-badge)
 
----
-
-<p align="left">
-  <a href="https://primaginary.id" target="_blank">
-    <img src="https://raw.githubusercontent.com/ridzidev/ridzidev.github.io/refs/heads/gh-pages/assets/images/logo_primaginary_indonesia.png" height="28" alt="Primaginary Indonesia Logo" align="center" />
-  </a>
-  &nbsp; you found the founder of primaginary indonesia (<a href="https://primaginary.id">primaginary.id</a>)
-</p>
 
