@@ -1,12 +1,52 @@
-# ridzidev
+# M. Alfa Ridzi, S.Mat
 
+**Software Developer · Mathematical System Architect**  
+`e^(iπ) + 1 = 0` · `∑ 1/n² = π²/6`
+
+<p align="left">
+  <a href="https://ridzi.primaginary.id" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ridzi.primaginary.id-111827?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/ridzima" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:penelitian.ridzi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <p align="left">
   <a href="https://primaginary.id" target="_blank">
     <img src="https://raw.githubusercontent.com/ridzidev/ridzidev.github.io/refs/heads/gh-pages/assets/images/logo_primaginary_indonesia.png" height="28" alt="Primaginary Indonesia Logo" align="center" />
   </a>
-  &nbsp; you found the founder of primaginary indonesia (<a href="https://primaginary.id">primaginary.id</a>)
+  &nbsp; Founder & Chief Product Architect at <a href="https://primaginary.id" target="_blank">Primaginary Indonesia</a>
 </p>
+
+---
+
+### About
+
+- Senior Full-Stack Engineer & Computational Mathematician based in **South Jakarta, Indonesia**.
+- Background in **Mathematics (Syiah Kuala University)**: approaching software architecture like a proof, breaking complex business rules and performance bottlenecks into clean, testable systems.
+- Experience spanning remote clinical/enterprise systems in Germany (**Fleischhacker GmbH & Co. KG**), government tax & GIS platforms (**PT. Cartenz Technology**), real-time field/contact-center ecosystems (**PT. VADS Indonesia**), and multi-tenant SaaS architecture (**Primaginary Indonesia**).
+
+---
+
+### Engineering & Research Highlights
+
+**Systems, Hardware & Tooling**
+- **Clinical & Biometric Systems:** Built `LogAnalyzerV2` server monitoring, `MediConnect TMZ` desktop modules, and low-level TCP socket daemons (Port 4370) syncing ZKTeco hardware events into SQL Server & MySQL.
+- **Performance & DevOps Tooling:** Engineered multi-repo static code analyzers, SQL `.sqlplan` bottleneck & index parsers, NLP-based XML localization tools, and Git-diff automated deployment pipelines.
+
+**Enterprise, GovTech & Mobile**
+- **Tax Analytics & GIS:** Led full-stack development for municipal tax analytics, banking API integrations, automated document pipelines (`JasperReports`, `Spire.Doc`), and geospatial mapping (`OpenLayers`).
+- **Offline-First Mobile & Real-Time:** Built Android field tracking and tax retribution apps (`Kotlin`/`Java`, `Room`/`SQLite`, Bluetooth thermal printing, WebSocket telemetry) alongside enterprise HRIS (`Blazor`, `.NET MAUI`) and multi-tenant SaaS platforms (`Rust`, `.NET Core`, `Angular`, `Laravel`, `Next.js`).
+
+**Scientific Computing & Publications**
+- Built symbolic math/integral solvers (`MATLAB`, `Maple`, `Kotlin`), finite-field (`Zp`) matrix engines, MADM wave equation solvers, and collaborative LaTeX-to-SVG editors using Operational Transformation.
+- *Ridzi Butterfly Theory: A Symmetric Visualization & Topological Approach to the Goldbach Conjecture* ([DOI: 10.5281/zenodo.18902529](https://doi.org/10.5281/zenodo.18902529), 2026)
+- *On the Arithmetic Properties of Ridzi's Inserted Numbers* ([DOI: 10.5281/zenodo.18154164](https://doi.org/10.5281/zenodo.18154164), 2020)
+- *The Numerical Solution by Modified Adomian Decomposition Method for General Wave Equation* (ICST, 2019)
 
 ---
 
@@ -33,6 +73,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -56,8 +97,10 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
-
+<sub>Open to Senior Backend, Full-Stack, and Solutions Architect roles or technical collaborations · Interactive lab & full project archive at <a href="https://ridzi.primaginary.id">ridzi.primaginary.id</a></sub>
