@@ -19,7 +19,7 @@
   <a href="https://primaginary.id" target="_blank">
     <img src="https://raw.githubusercontent.com/ridzidev/ridzidev.github.io/refs/heads/gh-pages/assets/images/logo_primaginary_indonesia.png" height="28" alt="Primaginary Indonesia Logo" align="center" />
   </a>
-  &nbsp; Founder & Chief Product Architect at <a href="https://primaginary.id" target="_blank">Primaginary Indonesia</a>
+  &nbsp; Software Engineer (Independent / R&D) at <a href="https://primaginary.id" target="_blank">Primaginary Indonesia</a>
 </p>
 
 ---
@@ -28,15 +28,15 @@
 
 - Senior Full-Stack Engineer & Computational Mathematician based in **South Jakarta, Indonesia**.
 - Background in **Mathematics (Syiah Kuala University)**: approaching software architecture like a proof, breaking complex business rules and performance bottlenecks into clean, testable systems.
-- Experience spanning remote clinical/enterprise systems in Germany (**Fleischhacker GmbH & Co. KG**), government tax & GIS platforms (**PT. Cartenz Technology**), real-time field/contact-center ecosystems (**PT. VADS Indonesia**), and multi-tenant SaaS architecture (**Primaginary Indonesia**).
+- Experience spanning remote engineering in Germany (**Fleischhacker GmbH & Co. KG**), government tax & GIS platforms (**PT. Cartenz Technology Indonesia**), real-time enterprise ecosystems (**PT. VADS Indonesia**), and independent R&D (**Primaginary Indonesia**).
 
 ---
 
 ### Engineering & Research Highlights
 
 **Systems, Hardware & Tooling**
-- **Clinical & Biometric Systems:** Built `LogAnalyzerV2` server monitoring, `MediConnect TMZ` desktop modules, and low-level TCP socket daemons (Port 4370) syncing ZKTeco hardware events into SQL Server & MySQL.
-- **Performance & DevOps Tooling:** Engineered multi-repo static code analyzers, SQL `.sqlplan` bottleneck & index parsers, NLP-based XML localization tools, and Git-diff automated deployment pipelines.
+- **Server Monitoring & Device Integration:** Built clinical server monitoring services and real-time TCP network listeners synchronizing biometric/RFID attendance hardware with SQL Server & MySQL.
+- **Performance & DevOps Tooling:** Engineered multi-repo static code analyzers, SQL execution plan bottleneck & index parsers, NLP-based XML localization pipelines, and Git-diff automated deployment tools.
 
 **Enterprise, GovTech & Mobile**
 - **Tax Analytics & GIS:** Led full-stack development for municipal tax analytics, banking API integrations, automated document pipelines (`JasperReports`, `Spire.Doc`), and geospatial mapping (`OpenLayers`).
